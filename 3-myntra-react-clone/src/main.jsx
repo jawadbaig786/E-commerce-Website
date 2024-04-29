@@ -4,7 +4,7 @@ import App from "./routes/App.jsx";
 import "./index.css";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import Bags from "./routes/Bags.jsx";
-import Home from "./routes/Home.jsx";
+import Home from "./routes/home.jsx";
 import { Provider } from "react-redux";
 import myntrastore from "./store/index.js";
 import PLaceholder from "./routes/PLaceholder.jsx";
